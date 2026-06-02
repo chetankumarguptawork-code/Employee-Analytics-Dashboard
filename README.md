@@ -40,7 +40,6 @@ npm run dev
 src
 ├── Components
 │   ├── Charts
-│   ├── Filters
 │   ├── Grid
 │   ├── Header
 │   ├── KPI
